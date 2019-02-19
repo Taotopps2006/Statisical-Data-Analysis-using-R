@@ -10,8 +10,8 @@ The remainder of this report is structured as follows: In Section 2, we explaine
 
 # Research Questions and Methods of Analysis
 Upon proper organization and understanding of the data, deep insights were gained from the data using exploratory data analysis. Hence, we posed the following research questions and provided justification for the selected statistical methods/models used to provide answers to the questions.
-  Research Question #1: / Are cars fuel consumption rate affected by their horsepower value? What is the correlation between MPG and HorsePower? Is it significantly different from zero?
-  Research Question #2: Does a car RPM have a great influence on its PRICE?
+  * Research Question #1: / Are cars fuel consumption rate affected by their horsepower value? What is the correlation between MPG and HorsePower? Is it significantly different from zero?
+  *Research Question #2: Does a car RPM have a great influence on its PRICE?
   Research Question #3: Are Car types dependent on Drive Train Type.
   
 In addition, I carried out further Data Analysis in section 5 as described by Lock (1993)
