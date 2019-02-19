@@ -18,7 +18,7 @@ In addition, I carried out further Data Analysis in section 5 as described by Lo
 
 
 # References
-Kamber, M., Han, J. and Pei, J., 2012. Data mining: Concepts and techniques. 3rd Edition Elsevier.
-Lock, R. H. (1993) 1993 new car data. Journal of Statistics Education, 1(1).
+* Kamber, M., Han, J. and Pei, J., 2012. Data mining: Concepts and techniques. 3rd Edition Elsevier.
+* Lock, R. H. (1993) 1993 new car data. Journal of Statistics Education, 1(1).
 
 To have a copy of the pdf report, send an email to taotopps2006@gmail.com 
